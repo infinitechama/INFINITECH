@@ -79,8 +79,9 @@ Our expertise spans across **software development, cybersecurity, cloud solution
 ---
 
 ## 📩 Contact Us  
-  <!-- 
+
 <p align="center">
+    <!-- 
   <a href="mailto:infinitetech.ama@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
   </a>
@@ -129,6 +130,7 @@ Our expertise spans across **software development, cybersecurity, cloud solution
 </p>
 
 <p align="center">© 2025 INFINITE TECH.AMA • All Rights Reserved</p>
+
 
 
 
