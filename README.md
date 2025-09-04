@@ -85,7 +85,7 @@ Our expertise spans across **software development, cybersecurity, cloud solution
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/company/infinite-tech-ama" target="_blank">
+  <a href="https://www.linkedin.com/company/infinitech-ama" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" alt="LinkedIn" width="40"/>
   </a>
   &nbsp;&nbsp;
@@ -114,6 +114,12 @@ Our expertise spans across **software development, cybersecurity, cloud solution
   </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20"/>
+  <strong>infinitetech.ama@gmail.com</strong>
+</p>
 
 ---
 
@@ -122,5 +128,6 @@ Our expertise spans across **software development, cybersecurity, cloud solution
 </p>
 
 <p align="center">© 2025 INFINITE TECH.AMA • All Rights Reserved</p>
+
 
 
