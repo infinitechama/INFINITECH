@@ -1,70 +1,96 @@
 <!-- README.md for INFINITE TECH.AMA -->
 
-<h1 align="center">INFINITE TECH.AMA</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/infinitechama/assets/main/banner-tech.gif" alt="INFINITE TECH.AMA Banner" width="100%"/>
+</p>
+
+<h1 align="center">✨ INFINITE TECH.AMA ✨</h1>
 
 <p align="center">
-  <em>Transforming ideas into powerful digital solutions</em>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Empowering+Businesses+with+Technology;Cybersecurity+%7C+Software+%7C+Cloud+%7C+AI;Innovation+through+Code+%26+Design" alt="Typing Animation"/>
 </p>
 
 ---
 
-## 🌍 About Us
+## 🌍 About Us  
 
-**INFINITE TECH.AMA** is a technology company specialized in:  
-- Software Development  
-- Cybersecurity & Data Protection  
-- Cloud & Infrastructure Solutions  
-- Web & Mobile Applications  
+At **INFINITE TECH.AMA**, we deliver **modern technology solutions** tailored for growth and innovation.  
+Our expertise spans across **software development, cybersecurity, cloud solutions, and AI-driven products**.  
 
-Our mission is to empower businesses and individuals by delivering secure, scalable, and user-centered digital products.
-
----
-
-## ⚡ Our Services
-
-- **Web Development** – Corporate websites, e-commerce platforms, SaaS applications.  
-- **Mobile Applications** – Cross-platform apps with **Flutter** & **React Native**.  
-- **Cybersecurity** – Penetration testing, vulnerability management, security audits.  
-- **Cloud Solutions** – Hosting, scaling, AWS/Azure/GCP, DevOps pipelines.  
-- **UI/UX Design** – Research, prototyping, and design systems.  
-- **Data & AI** – Analytics dashboards, automation, predictive modeling.  
-- **Maintenance & Support** – Continuous monitoring, updates, and SLAs.  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/infinitechama/assets/main/about.gif" alt="About Us Animation" width="70%"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,php,flutter,tailwind,figma,python,java,git,github,vscode,mysql,postgresql,mongodb,aws,docker,kubernetes" alt="Tech Stack"/>
-</div>
-
----
-
-## 🚀 Featured Project
-
-- [**INFINITECH**](https://github.com/infinitechama/INFINITECH)  
-  Our flagship repository showcasing core solutions and project architecture.  
-
----
-
-## 📈 GitHub Stats
+## ⚡ Services  
 
 <div align="center">
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitechama&layout=compact&theme=default)  
-[![GitHub Stats](https://bad-apple-github-readme.vercel.app/api?username=infinitechama&show_icons=true&count_private=true&theme=default)](#)
+| 🚀 Service | 💡 Description |
+|------------|----------------|
+| 🌐 **Web Development** | Corporate websites, SaaS, e-commerce |
+| 📱 **Mobile Apps** | Flutter & React Native cross-platform solutions |
+| 🔒 **Cybersecurity** | Pentesting, security audits, vulnerability management |
+| ☁️ **Cloud Solutions** | AWS, Azure, GCP, DevOps pipelines |
+| 🎨 **UI/UX Design** | Prototypes, wireframes, user-focused design |
+| 📊 **Data & AI** | Automation, analytics, predictive models |
+| 🔧 **Support & Maintenance** | SLA support, monitoring, upgrades |
 
 </div>
 
 ---
 
-## 📩 Contact Us
+## 🛠️ Tech Stack  
 
-- **Email:** [infinitech.ama@gmail.com](mailto:infinitech.ama@gmail.com)  
-- **GitHub:** [github.com/infinitechama](https://github.com/infinitechama)  
-- **LinkedIn:** [linkedin.com/company/infinite-tech-ama](https://www.linkedin.com/company/infinite-tech-ama/)  
-- **Website:** [infinitech-ama.vercel.app](https://infinitech-ama.vercel.app)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,php,flutter,tailwind,figma,python,java,git,github,mysql,postgresql,mongodb,aws,docker,kubernetes" alt="Tech Stack" />
+</p>
 
 ---
+
+## 🚀 Featured Projects  
+
+- [**Corporate Agency Website**](https://github.com/infinitechama/agency-website) – Modern React + Tailwind animated landing page.  
+- [**Cybersecurity Toolkit**](https://github.com/infinitechama/cybersecurity-toolkit) – Tools for security testing & audits.  
+- [**CloudOps Infrastructure**](https://github.com/infinitechama/cloudops) – DevOps automation for scaling apps.  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/infinitechama/assets/main/projects.gif" width="70%"/>
+</p>
+
+---
+
+## 📊 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitechama&theme=default" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=infinitechama&show_icons=true&theme=default" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitechama&layout=compact&theme=default" alt="Languages"/>
+</p>
+
+---
+
+## 📩 Contact Us  
+
+<p align="center">
+  <a href="mailto:infinitech.ama@gmail.com"><img src="https://img.shields.io/badge/Email-infinitech.ama%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/company/infinite-tech-ama"><img src="https://img.shields.io/badge/LinkedIn-INFINITE%20TECH.AMA-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/infinitechama"><img src="https://img.shields.io/badge/GitHub-infinitechama-black?style=for-the-badge&logo=github"></a>
+  <a href="https://infinitech-ama.vercel.app"><img src="https://img.shields.io/badge/Website-infinitech--ama.vercel.app-success?style=for-the-badge&logo=vercel"></a>
+</p>
+
+---
+
+<p align="center">  
+  <img src="https://raw.githubusercontent.com/infinitechama/assets/main/footer-tech.gif" width="100%"/>  
+</p>
 
 <p align="center">© 2025 INFINITE TECH.AMA • All Rights Reserved</p>
