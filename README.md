@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/infinitechama/assets/main/banner-tech.gif" alt="INFINITE TECH.AMA Banner" width="100%"/>
 </p>
 
-<h1 align="center">✨ INFINITE TECH.AMA ✨</h1>
+<h1 align="center">✨ INFINITE TECH✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Empowering+Businesses+with+Technology;Cybersecurity+%7C+Software+%7C+Cloud+%7C+AI;Innovation+through+Code+%26+Design" alt="Typing Animation"/>
@@ -79,12 +79,13 @@ Our expertise spans across **software development, cybersecurity, cloud solution
 ---
 
 ## 📩 Contact Us  
-
+  <!-- 
 <p align="center">
   <a href="mailto:infinitetech.ama@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
   </a>
   &nbsp;&nbsp;
+ -->
   <a href="https://www.linkedin.com/company/infinitech-ama" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" alt="LinkedIn" width="40"/>
   </a>
@@ -128,6 +129,7 @@ Our expertise spans across **software development, cybersecurity, cloud solution
 </p>
 
 <p align="center">© 2025 INFINITE TECH.AMA • All Rights Reserved</p>
+
 
 
 
