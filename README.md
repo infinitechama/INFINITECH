@@ -81,16 +81,10 @@ Our expertise spans across **software development, cybersecurity, cloud solution
 ## 📩 Contact Us  
 
 <p align="center">
-
-🌐 [Website](https://infinitech-ama.vercel.app)  
-📧 [Email](mailto:infinitech.ama@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/company/infinite-tech-ama)  
-🐙 [GitHub](https://github.com/infinitechama)  
-📱 [Twitter / X](https://twitter.com/infinitechama)  
-💬 [Telegram](https://t.me/infinitechama)  
-📸 [Instagram](https://instagram.com/infinitechama)  
-▶️ [YouTube](https://youtube.com/@infinitechama)  
-
+  <a href="mailto:infinitech.ama@gmail.com"><img src="https://img.shields.io/badge/Email-infinitech.ama%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/company/infinite-tech-ama"><img src="https://img.shields.io/badge/LinkedIn-INFINITE%20TECH.AMA-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/infinitechama"><img src="https://img.shields.io/badge/GitHub-infinitechama-black?style=for-the-badge&logo=github"></a>
+  <a href="https://infinitech-ama.vercel.app"><img src="https://img.shields.io/badge/Website-infinitech--ama.vercel.app-success?style=for-the-badge&logo=vercel"></a>
 </p>
 
 ---
@@ -100,5 +94,3 @@ Our expertise spans across **software development, cybersecurity, cloud solution
 </p>
 
 <p align="center">© 2025 INFINITE TECH.AMA • All Rights Reserved</p>
-
-
