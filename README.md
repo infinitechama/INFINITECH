@@ -81,10 +81,21 @@ Our expertise spans across **software development, cybersecurity, cloud solution
 ## 📩 Contact Us  
 
 <p align="center">
-  <a href="mailto:infinitech.ama@gmail.com"><img src="https://img.shields.io/badge/Email-infinitech.ama%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/company/infinite-tech-ama"><img src="https://img.shields.io/badge/LinkedIn-INFINITE%20TECH.AMA-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/infinitechama"><img src="https://img.shields.io/badge/GitHub-infinitechama-black?style=for-the-badge&logo=github"></a>
-  <a href="https://infinitech-ama.vercel.app"><img src="https://img.shields.io/badge/Website-infinitech--ama.vercel.app-success?style=for-the-badge&logo=vercel"></a>
+  <a href="mailto:infinitech.ama@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/company/infinite-tech-ama" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/infinitechama" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://infinitech-ama.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  </a>
 </p>
 
 ---
@@ -94,3 +105,4 @@ Our expertise spans across **software development, cybersecurity, cloud solution
 </p>
 
 <p align="center">© 2025 INFINITE TECH.AMA • All Rights Reserved</p>
+
