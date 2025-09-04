@@ -81,47 +81,37 @@ Our expertise spans across **software development, cybersecurity, cloud solution
 ## 📩 Contact Us  
 
 <p align="center">
-
-  <!-- مستطيلات Shields -->
   <a href="mailto:infinitetech.ama@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-infinitetech.ama%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/company/infinite-tech-ama" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-INFINITE%20TECH.AMA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" alt="LinkedIn" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/infinitechama" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-infinitechama-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://infinitech-ama.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-infinitech--ama.vercel.app-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="40"/>
   </a>
-
-  <br><br>
-
-  <!-- أزرار أيقونية أنيقة -->
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=61565534591446" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/INFINITECH_ama" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X (Twitter)" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/infinite_tech.ama" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/infinitech-ama" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" alt="LinkedIn" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/INFINITECHAMA" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="40"/>
   </a>
-
 </p>
 
 
@@ -132,4 +122,5 @@ Our expertise spans across **software development, cybersecurity, cloud solution
 </p>
 
 <p align="center">© 2025 INFINITE TECH.AMA • All Rights Reserved</p>
+
 
